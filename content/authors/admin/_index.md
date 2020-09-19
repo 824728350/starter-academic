@@ -47,7 +47,7 @@ social:
   link: mailto:yq18@rice.edu
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=HwuO6jcAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/824728350
@@ -67,5 +67,6 @@ user_groups:
 - Students
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi there! I'm Richard Yiming Qiu, a first year CS Ph.D student at Rice University working with Prof. Ang Chen. My current research focus is on Network Configuration Verfication and Cross Platform Performance Predictions, leveraging a wide variety of methodologies such as program synthesis, symbolic execution, graph analysis, constraint solving and machine learning. 
+It is an honor to live in an era of change, witnessing the fast advance of information technology. Please feel free to contact me is you are intersted in my reasearch, I would love to chat more with you :)
 
