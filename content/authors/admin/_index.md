@@ -33,9 +33,6 @@ education:
   - course: Master of Computer Science
     institution: Rice University
     year: 2019-2020
-  - course: BSc in Communication Engineering
-    institution: Beijing University of Posts and Telecom
-    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
