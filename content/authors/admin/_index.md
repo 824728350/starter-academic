@@ -68,5 +68,6 @@ user_groups:
 ---
 
 Hi there! I'm Richard Yiming Qiu, a first year CS Ph.D student at Rice University working with Prof. Ang Chen. My current research focus is on Network Configuration Verfication and Cross Platform Performance Predictions, leveraging a wide variety of methodologies such as program synthesis, symbolic execution, graph analysis, constraint solving and machine learning. 
+
 It is an honor to live in an era of change, witnessing the fast advance of information technology. Please feel free to contact me is you are intersted in my reasearch, I would love to chat more with you :)
 
